@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: eQualityLab.eQualityLabs_project.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.581 s - in eQualityLab.eQualityLabs_project.AppTest

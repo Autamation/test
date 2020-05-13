@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="9" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.Resources.ExtendtReportsNG"/>
+  </listeners>
+  <test thread-count="9" name="chromeTest(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="eQualityLab.eQualityLabs_project.Tc_009TestMatipleLInk">
+        <methods>
+          <include name="tearDown"/>
+          <include name="selectBrowsers"/>
+          <include name="TestmatiplePage"/>
+        </methods>
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_009TestMatipleLInk -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_007SignupIndivualAccount">
+        <methods>
+          <include name="tearDown"/>
+          <include name="indivualCreatePage"/>
+          <include name="selectBrowsers"/>
+        </methods>
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_007SignupIndivualAccount -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_006SignupFreeaccount">
+        <methods>
+          <include name="FreeAccountCreatePage"/>
+          <include name="tearDown"/>
+          <include name="selectBrowsers"/>
+        </methods>
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_006SignupFreeaccount -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_002Freeaccount">
+        <methods>
+          <include name="freeAccountPage"/>
+          <include name="tearDown"/>
+          <include name="selectBrowsers"/>
+        </methods>
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_002Freeaccount -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_003Indivualaccount">
+        <methods>
+          <include name="tearDown"/>
+          <include name="IndivualAccountPage"/>
+          <include name="selectBrowsers"/>
+        </methods>
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_003Indivualaccount -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_005Resources">
+        <methods>
+          <include name="ResourcesPage"/>
+          <include name="tearDown"/>
+          <include name="selectBrowsers"/>
+        </methods>
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_005Resources -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_001SignInpage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="selectBrowsers"/>
+          <include name="loginPage"/>
+        </methods>
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_001SignInpage -->
+      <class name="eQualityLab.eQualityLabs_project.TC_010Socialmedia">
+        <methods>
+          <include name="tearDown"/>
+          <include name="selectBrowsers"/>
+          <include name="socialMediaclasses"/>
+        </methods>
+      </class> <!-- eQualityLab.eQualityLabs_project.TC_010Socialmedia -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_008SognUpBusinessAccount">
+        <methods>
+          <include name="tearDown"/>
+          <include name="selectBrowsers"/>
+          <include name="businessAccountCreatePage"/>
+        </methods>
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_008SognUpBusinessAccount -->
+    </classes>
+  </test> <!-- chromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

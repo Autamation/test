@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="147674" started-at="2020-05-12T12:45:19 IST" finished-at="2020-05-12T12:47:47 IST">
+    <groups>
+    </groups>
+    <test name="chromeTest" duration-ms="147674" started-at="2020-05-12T12:45:19 IST" finished-at="2020-05-12T12:47:47 IST">
+      <class name="eQualityLab.eQualityLabs_project.Tc_001SignInpage">
+        <test-method status="PASS" signature="selectBrowsers(java.lang.String)[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_001SignInpage@7880cdf3]" name="selectBrowsers" is-config="true" duration-ms="12286" started-at="2020-05-12T12:45:54 IST" finished-at="2020-05-12T12:46:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowsers -->
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_001SignInpage@7880cdf3]" name="loginPage" duration-ms="10718" started-at="2020-05-12T12:46:06 IST" finished-at="2020-05-12T12:46:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_001SignInpage@7880cdf3]" name="tearDown" is-config="true" duration-ms="945" started-at="2020-05-12T12:46:17 IST" finished-at="2020-05-12T12:46:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_001SignInpage -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_009TestMatipleLInk">
+        <test-method status="PASS" signature="selectBrowsers(java.lang.String)[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_009TestMatipleLInk@10e92f8f]" name="selectBrowsers" is-config="true" duration-ms="11191" started-at="2020-05-12T12:47:00 IST" finished-at="2020-05-12T12:47:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowsers -->
+        <test-method status="PASS" signature="TestmatiplePage()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_009TestMatipleLInk@10e92f8f]" name="TestmatiplePage" duration-ms="3877" started-at="2020-05-12T12:47:11 IST" finished-at="2020-05-12T12:47:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestmatiplePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_009TestMatipleLInk@10e92f8f]" name="tearDown" is-config="true" duration-ms="1922" started-at="2020-05-12T12:47:15 IST" finished-at="2020-05-12T12:47:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_009TestMatipleLInk -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_002Freeaccount">
+        <test-method status="PASS" signature="selectBrowsers(java.lang.String)[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_002Freeaccount@6ef888f6]" name="selectBrowsers" is-config="true" duration-ms="11468" started-at="2020-05-12T12:46:46 IST" finished-at="2020-05-12T12:46:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowsers -->
+        <test-method status="PASS" signature="freeAccountPage()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_002Freeaccount@6ef888f6]" name="freeAccountPage" duration-ms="1537" started-at="2020-05-12T12:46:58 IST" finished-at="2020-05-12T12:46:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeAccountPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_002Freeaccount@6ef888f6]" name="tearDown" is-config="true" duration-ms="978" started-at="2020-05-12T12:46:59 IST" finished-at="2020-05-12T12:47:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_002Freeaccount -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_006SignupFreeaccount">
+        <test-method status="PASS" signature="selectBrowsers(java.lang.String)[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_006SignupFreeaccount@1c93084c]" name="selectBrowsers" is-config="true" duration-ms="11378" started-at="2020-05-12T12:46:32 IST" finished-at="2020-05-12T12:46:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowsers -->
+        <test-method status="PASS" signature="FreeAccountCreatePage()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_006SignupFreeaccount@1c93084c]" name="FreeAccountCreatePage" duration-ms="1377" started-at="2020-05-12T12:46:44 IST" finished-at="2020-05-12T12:46:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FreeAccountCreatePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_006SignupFreeaccount@1c93084c]" name="tearDown" is-config="true" duration-ms="1133" started-at="2020-05-12T12:46:45 IST" finished-at="2020-05-12T12:46:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_006SignupFreeaccount -->
+      <class name="eQualityLab.eQualityLabs_project.TC_010Socialmedia">
+        <test-method status="PASS" signature="selectBrowsers(java.lang.String)[pri:0, instance:eQualityLab.eQualityLabs_project.TC_010Socialmedia@78b66d36]" name="selectBrowsers" is-config="true" duration-ms="10903" started-at="2020-05-12T12:47:34 IST" finished-at="2020-05-12T12:47:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowsers -->
+        <test-method status="PASS" signature="socialMediaclasses()[pri:0, instance:eQualityLab.eQualityLabs_project.TC_010Socialmedia@78b66d36]" name="socialMediaclasses" duration-ms="960" started-at="2020-05-12T12:47:45 IST" finished-at="2020-05-12T12:47:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- socialMediaclasses -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:eQualityLab.eQualityLabs_project.TC_010Socialmedia@78b66d36]" name="tearDown" is-config="true" duration-ms="819" started-at="2020-05-12T12:47:46 IST" finished-at="2020-05-12T12:47:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eQualityLab.eQualityLabs_project.TC_010Socialmedia -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_008SognUpBusinessAccount">
+        <test-method status="PASS" signature="selectBrowsers(java.lang.String)[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_008SognUpBusinessAccount@5be6e01c]" name="selectBrowsers" is-config="true" duration-ms="12418" started-at="2020-05-12T12:46:18 IST" finished-at="2020-05-12T12:46:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowsers -->
+        <test-method status="PASS" signature="businessAccountCreatePage()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_008SognUpBusinessAccount@5be6e01c]" name="businessAccountCreatePage" duration-ms="1239" started-at="2020-05-12T12:46:30 IST" finished-at="2020-05-12T12:46:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- businessAccountCreatePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_008SognUpBusinessAccount@5be6e01c]" name="tearDown" is-config="true" duration-ms="850" started-at="2020-05-12T12:46:32 IST" finished-at="2020-05-12T12:46:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_008SognUpBusinessAccount -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_007SignupIndivualAccount">
+        <test-method status="PASS" signature="selectBrowsers(java.lang.String)[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_007SignupIndivualAccount@36c88a32]" name="selectBrowsers" is-config="true" duration-ms="11509" started-at="2020-05-12T12:45:40 IST" finished-at="2020-05-12T12:45:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowsers -->
+        <test-method status="PASS" signature="indivualCreatePage()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_007SignupIndivualAccount@36c88a32]" name="indivualCreatePage" duration-ms="1284" started-at="2020-05-12T12:45:51 IST" finished-at="2020-05-12T12:45:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indivualCreatePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_007SignupIndivualAccount@36c88a32]" name="tearDown" is-config="true" duration-ms="1252" started-at="2020-05-12T12:45:53 IST" finished-at="2020-05-12T12:45:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_007SignupIndivualAccount -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_005Resources">
+        <test-method status="PASS" signature="selectBrowsers(java.lang.String)[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_005Resources@ef9296d]" name="selectBrowsers" is-config="true" duration-ms="18720" started-at="2020-05-12T12:45:19 IST" finished-at="2020-05-12T12:45:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowsers -->
+        <test-method status="PASS" signature="ResourcesPage()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_005Resources@ef9296d]" name="ResourcesPage" duration-ms="353" started-at="2020-05-12T12:45:38 IST" finished-at="2020-05-12T12:45:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResourcesPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_005Resources@ef9296d]" name="tearDown" is-config="true" duration-ms="1500" started-at="2020-05-12T12:45:38 IST" finished-at="2020-05-12T12:45:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_005Resources -->
+      <class name="eQualityLab.eQualityLabs_project.Tc_003Indivualaccount">
+        <test-method status="PASS" signature="selectBrowsers(java.lang.String)[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_003Indivualaccount@7ce3cb8e]" name="selectBrowsers" is-config="true" duration-ms="14516" started-at="2020-05-12T12:47:17 IST" finished-at="2020-05-12T12:47:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowsers -->
+        <test-method status="PASS" signature="IndivualAccountPage()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_003Indivualaccount@7ce3cb8e]" name="IndivualAccountPage" duration-ms="1576" started-at="2020-05-12T12:47:32 IST" finished-at="2020-05-12T12:47:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IndivualAccountPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:eQualityLab.eQualityLabs_project.Tc_003Indivualaccount@7ce3cb8e]" name="tearDown" is-config="true" duration-ms="895" started-at="2020-05-12T12:47:33 IST" finished-at="2020-05-12T12:47:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eQualityLab.eQualityLabs_project.Tc_003Indivualaccount -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
